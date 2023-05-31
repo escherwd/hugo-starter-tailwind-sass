@@ -9,8 +9,19 @@
 		"autoprefixer": "^10.4.14",
 		"postcss": "^8.4.23",
 		"postcss-cli": "^10.1.0",
+		"resolve-url-loader": "^5.0.0",
+		"sass": "^1.62.1",
+		"sass-loader": "^12.1.0",
 		"tailwindcss": "^3.3.2"
 	},
+	"scripts": {
+		"serve": "hugo serve --disableFastRender",
+		"mix": "npx mix watch",
+		"dev": "npm run serve & npm run mix"
+	},
 	"name": "hugo-starter-tailwind-basic",
-	"version": "0.1.0"
+	"version": "0.1.0",
+	"dependencies": {
+		"laravel-mix": "^6.0.49"
+	}
 }
