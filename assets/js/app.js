@@ -1,1 +1,1 @@
-// this is where the js goes
+// App JavaScript can go here

@@ -9,6 +9,8 @@
 
 // this is where the js goes
 
+console.log("hello!");
+
 /***/ }),
 
 /***/ "./assets/css/styles.scss":

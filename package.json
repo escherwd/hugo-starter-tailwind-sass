@@ -2,13 +2,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/bep/hugo-starter-tailwind-basic.git"
+		"url": "https://github.com/escherwd/hugo-starter-tailwind-sass.git"
 	},
 	"devDependencies": {
 		"@tailwindcss/typography": "^0.5.9",
-		"autoprefixer": "^10.4.14",
-		"postcss": "^8.4.23",
-		"postcss-cli": "^10.1.0",
 		"resolve-url-loader": "^5.0.0",
 		"sass": "^1.62.1",
 		"sass-loader": "^12.1.0",
